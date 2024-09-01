@@ -1,5 +1,5 @@
 ## 🔥Souza 
-### Me chamo Nicolas, e estou aprendendo JAVA
+### Me chamo Souza, e estou aprendendo JAVA
 
 ## Linguagens
 <div style="display: inline_block"><br/>
